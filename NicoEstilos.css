@@ -1,0 +1,28 @@
+.destacado{color:rgb(248, 0, 0);}
+p.destacado {color:rgba(255, 2, 192, 0.829);
+    background-color:rgb(49, 49, 116);
+    width: 200px;
+}
+strong.destacado{color:blue;}
+h1 span{color:rgb(255, 204, 127);}
+body {background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a502c8e-efd3-46fe-929b-588dcc60eb1c/d515p28-c8610ab6-264b-4bc1-8f78-eb06a32506c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhNTAyYzhlLWVmZDMtNDZmZS05MjliLTU4OGRjYzYwZWIxY1wvZDUxNXAyOC1jODYxMGFiNi0yNjRiLTRiYzEtOGY3OC1lYjA2YTMyNTA2YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uhwyCey_Jd60huSrfDlLbnzKBBsrARdfE7QE8PJUGOY");}
+.fav {
+    background-color: white;
+    width: 150px;
+}
+.peor {
+    background-color: black;
+    color: white;
+    width:200px;
+}
+.amigo {
+    background-color: aqua;
+    width: 270px;
+}
+.nico {
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.nico span {
+    color: rgb(137, 192, 36);
+}
